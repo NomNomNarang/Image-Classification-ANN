@@ -1,0 +1,5 @@
+##My Learning
+
+During this project, I trained the image classification model on my CPU (Intel Iris Xe Graphics). Since Intel integrated GPUs are not optimized for deep learning computations,
+the training process was quite slow. As the number of epochs increased, I observed that the model’s accuracy gradually improved, but each epoch took a significant amount of time to complete. 
+This experience helped me understand how computational hardware impacts training speed and reinforced the importance of using an NVIDIA GPU for faster and more efficient deep learning model training.
