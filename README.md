@@ -1,4 +1,4 @@
-# 🧠 Image Classification using Artificial Neural Network (ANN)
+# 🧠 Classification using Artificial Neural Network (ANN)
 
 ## 📘 Overview
 This project demonstrates **image classification** using an **Artificial Neural Network (ANN)** built with **TensorFlow** and **Keras**.  
